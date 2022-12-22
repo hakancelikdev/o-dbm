@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/AUTHORS/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/AUTHORS/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/CHANGELOG/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/CHANGELOG/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/CONTRIBUTING/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/CONTRIBUTING/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/installation/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/installation/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/tutorial/field-types/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/tutorial/field-types/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/tutorial/model-config/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/tutorial/model-config/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/tutorial/models/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/tutorial/models/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pydbm.hakancelik.dev/0.4.0/tutorial/validators/</loc>
+         <loc>https://pydbm.hakancelik.dev/latest/tutorial/validators/</loc>
          <lastmod>2022-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
